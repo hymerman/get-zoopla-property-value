@@ -1,0 +1,11 @@
+{
+  "name": "get-zoopla-property-value",
+  "version": "0.1.0",
+  "description": "A script to scrape the current value of a given property from zoopla.com",
+  "author": "Ben Hymers <b.hymers@gmail.com>",
+  "dependencies": {
+    "request": "2.27.x",
+    "cheerio": "0.12.x"
+  },
+  "engine": "node >= 0.10.20"
+}
